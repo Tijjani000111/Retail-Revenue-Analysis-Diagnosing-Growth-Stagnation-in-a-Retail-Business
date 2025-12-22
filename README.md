@@ -110,3 +110,7 @@ Based on the analysis, the following actions are recommended:
 4. Explore pricing, bundling, or promotional strategies to stimulate growth
 5. Investigate underperforming regions and stores for optimization opportunities
 
+
+![Screenshot 2025-12-22 at 9 29 19 PM](https://github.com/user-attachments/assets/b6adc2b0-2424-4cfa-b379-699ee85d1c58)
+
+![Screenshot 2025-12-22 at 9 29 27 PM](https://github.com/user-attachments/assets/674cf18c-b6f5-4529-94d5-71e80bbb43ae)
