@@ -13,6 +13,9 @@
 9. [Recommendation](#recommendation)
 
 
+### Dataset
+Due to Github file size limits, the full datasets is hosted on google drive. [Download here](https://drive.google.com/drive/folders/1TtLvQdOIwggcDyRkV_OoTRAE_biAIDWn?usp=share_link)
+
 ### Project Overview 
 
 This project analyzes multi-year retail transaction data to understand why a large retail business experienced revenue stagnation despite consistent sales activity. Using Excel (Power Query, Pivot Tables, and dashboarding), the analysis integrates multiple dimension tables (customers, time, items, stores, suppliers) into a unified fact table and evaluates revenue trends across years, months, products, stores, suppliers, countries, and transaction types.
